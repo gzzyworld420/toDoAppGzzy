@@ -1,6 +1,6 @@
 {
-  "name": "ToDoManzi",
-  "short_name": "miToDo",
+  "name": "ToDoApp",
+  "short_name": "GzzyApp",
   "start_url": "index.html",
   "display": "standalone",
   "orientation": "portrait-primary",
